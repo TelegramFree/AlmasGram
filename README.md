@@ -35,6 +35,7 @@
 1. **دانلود و نصب**:
    - برای نصب اپلیکیشن **الماس گرام** از [لینک‌های دانلود]([https://link-to-download.com](https://github.com/soft20developer/almasgram/releases/download/telegram/Almasgram_1.apk)) استفاده کنید.
    - نسخه‌های قابل پشتیبانی: **Android** و **iOS**.
+
   
 2. **ورود و ثبت‌نام**:
    - پس از نصب، با استفاده از شماره تلفن خود وارد اپلیکیشن شوید.
